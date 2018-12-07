@@ -1,0 +1,6 @@
+C:\Users\s-afzalr\source\repos\Calculator\Evaluation\obj\Debug\Evaluation.csprojAssemblyReference.cache
+C:\Users\s-afzalr\source\repos\Calculator\Evaluation\obj\Debug\Evaluation.csproj.CoreCompileInputs.cache
+C:\Users\s-afzalr\source\repos\Calculator\Evaluation\bin\Debug\Evaluation.dll
+C:\Users\s-afzalr\source\repos\Calculator\Evaluation\bin\Debug\Evaluation.pdb
+C:\Users\s-afzalr\source\repos\Calculator\Evaluation\obj\Debug\Evaluation.dll
+C:\Users\s-afzalr\source\repos\Calculator\Evaluation\obj\Debug\Evaluation.pdb

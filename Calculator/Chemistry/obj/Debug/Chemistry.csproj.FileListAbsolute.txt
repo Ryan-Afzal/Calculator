@@ -1,0 +1,6 @@
+C:\Users\s-afzalr\source\repos\Calculator\Chemistry\bin\Debug\Chemistry.dll
+C:\Users\s-afzalr\source\repos\Calculator\Chemistry\bin\Debug\Chemistry.pdb
+C:\Users\s-afzalr\source\repos\Calculator\Chemistry\obj\Debug\Chemistry.csprojAssemblyReference.cache
+C:\Users\s-afzalr\source\repos\Calculator\Chemistry\obj\Debug\Chemistry.csproj.CoreCompileInputs.cache
+C:\Users\s-afzalr\source\repos\Calculator\Chemistry\obj\Debug\Chemistry.dll
+C:\Users\s-afzalr\source\repos\Calculator\Chemistry\obj\Debug\Chemistry.pdb
